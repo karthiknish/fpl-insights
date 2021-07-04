@@ -1,0 +1,62 @@
+[
+  { "id": 1, "name": "Arsenal", "img": "https://i.imgur.com/7JTTeAc.png" },
+  { "id": 2, "name": "Aston Villa", "img": "https://i.imgur.com/kFv99aK.png" },
+  { "id": 3, "name": "BrentFord", "img": "https://i.imgur.com/YDFmxCY.png" },
+  {
+    "id": 4,
+    "name": "Brighton",
+    "img": "https://i.imgur.com/46l7M2z.png"
+  },
+  { "id": 5, "name": "Burnley", "img": "https://i.imgur.com/YOQV8hQ.png" },
+  { "id": 6, "name": "Chelsea", "img": "https://i.imgur.com/Q0XUMA4.png" },
+  {
+    "id": 7,
+    "name": "Crystal Palace",
+    "img": "https://i.imgur.com/GYVPrX3.png"
+  },
+  { "id": 8, "name": "Everton", "img": "https://i.imgur.com/kDEYfo6.png" },
+  { "id": 9, "name": "Leeds United", "img": "https://i.imgur.com/xIS2TI3.png" },
+  {
+    "id": 10,
+    "name": "Leicester City",
+    "img": "https://i.imgur.com/MZkunzB.png"
+  },
+  { "id": 11, "name": "Liverpool", "img": "https://i.imgur.com/Hk4Q6hh.png" },
+  {
+    "id": 12,
+    "name": "Manchester City",
+    "img": "https://i.imgur.com/YCWdMxs.png"
+  },
+  {
+    "id": 13,
+    "name": "Manchester United",
+    "img": "https://i.imgur.com/ETNKb1b.png"
+  },
+  {
+    "id": 14,
+    "name": "Newcastle United",
+    "img": "https://i.imgur.com/KjYvMjw.png"
+  },
+  {
+    "id": 15,
+    "name": "Norwich City",
+    "img": "https://i.imgur.com/PiDJnEY.png"
+  },
+  { "id": 16, "name": "Southampton", "img": "https://i.imgur.com/sDfO4VV.png" },
+  {
+    "id": 17,
+    "name": "Tottenham Hotspur",
+    "img": "https://i.imgur.com/7Ofl2w5.png"
+  },
+  { "id": 18, "name": "Watford", "img": "https://i.imgur.com/AtcTcih.png" },
+  {
+    "id": 19,
+    "name": "West Ham United",
+    "img": "https://i.imgur.com/M5966ET.png"
+  },
+  {
+    "id": 20,
+    "name": "Wolverhampton Wanderers",
+    "img": "https://i.imgur.com/0fJF6Cx.png"
+  }
+]
